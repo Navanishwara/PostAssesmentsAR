@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\InterviewScheduler\\InterviewScheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|c:\\interviewscheduler\\interviewscheduler\\interviewscheduler\\model\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|solutionrelative:interviewscheduler\\model\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|c:\\interviewscheduler\\interviewscheduler\\interviewscheduler\\model\\candidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|solutionrelative:interviewscheduler\\model\\candidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|c:\\interviewscheduler\\interviewscheduler\\interviewscheduler\\model\\interviewdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|solutionrelative:interviewscheduler\\model\\interviewdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|c:\\interviewscheduler\\interviewscheduler\\interviewscheduler\\model\\iinterviewdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|solutionrelative:interviewscheduler\\model\\iinterviewdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|c:\\interviewscheduler\\interviewscheduler\\interviewscheduler\\model\\recruiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|solutionrelative:interviewscheduler\\model\\recruiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|c:\\interviewscheduler\\interviewscheduler\\interviewscheduler\\model\\interviewstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|solutionrelative:interviewscheduler\\model\\interviewstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|c:\\interviewscheduler\\interviewscheduler\\interviewscheduler\\model\\interviewdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|solutionrelative:interviewscheduler\\model\\interviewdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|c:\\interviewscheduler\\interviewscheduler\\interviewscheduler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F51F67AC-CECC-4E42-8AA8-3EAFA3291937}|InterviewScheduler\\InterviewScheduler.csproj|solutionrelative:interviewscheduler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\Demo.cs",
+              "RelativeDocumentMoniker": "InterviewScheduler\\Model\\Demo.cs",
+              "ToolTip": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\Demo.cs",
+              "RelativeToolTip": "InterviewScheduler\\Model\\Demo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:54:21.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterviewDataAccess.cs",
+              "DocumentMoniker": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\InterviewDataAccess.cs",
+              "RelativeDocumentMoniker": "InterviewScheduler\\Model\\InterviewDataAccess.cs",
+              "ToolTip": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\InterviewDataAccess.cs",
+              "RelativeToolTip": "InterviewScheduler\\Model\\InterviewDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:03:16.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInterviewDataAccess.cs",
+              "DocumentMoniker": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\IInterviewDataAccess.cs",
+              "RelativeDocumentMoniker": "InterviewScheduler\\Model\\IInterviewDataAccess.cs",
+              "ToolTip": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\IInterviewDataAccess.cs",
+              "RelativeToolTip": "InterviewScheduler\\Model\\IInterviewDataAccess.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:02:48.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Recruiter.cs",
+              "DocumentMoniker": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\Recruiter.cs",
+              "RelativeDocumentMoniker": "InterviewScheduler\\Model\\Recruiter.cs",
+              "ToolTip": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\Recruiter.cs",
+              "RelativeToolTip": "InterviewScheduler\\Model\\Recruiter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:24:22.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Candidates.cs",
+              "DocumentMoniker": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\Candidates.cs",
+              "RelativeDocumentMoniker": "InterviewScheduler\\Model\\Candidates.cs",
+              "ToolTip": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\Candidates.cs",
+              "RelativeToolTip": "InterviewScheduler\\Model\\Candidates.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:34:16.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InterviewDBContext.cs",
+              "DocumentMoniker": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\InterviewDBContext.cs",
+              "RelativeDocumentMoniker": "InterviewScheduler\\Model\\InterviewDBContext.cs",
+              "ToolTip": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\InterviewDBContext.cs",
+              "RelativeToolTip": "InterviewScheduler\\Model\\InterviewDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:56:56.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\appsettings.json",
+              "RelativeDocumentMoniker": "InterviewScheduler\\appsettings.json",
+              "ToolTip": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\appsettings.json",
+              "RelativeToolTip": "InterviewScheduler\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T05:43:31.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterviewStatus.cs",
+              "DocumentMoniker": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\InterviewStatus.cs",
+              "RelativeDocumentMoniker": "InterviewScheduler\\Model\\InterviewStatus.cs",
+              "ToolTip": "C:\\InterviewScheduler\\InterviewScheduler\\InterviewScheduler\\Model\\InterviewStatus.cs",
+              "RelativeToolTip": "InterviewScheduler\\Model\\InterviewStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:37:47.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
